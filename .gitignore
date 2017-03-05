@@ -98,4 +98,4 @@ ENV/
 # manual add
 *.pyc
 *.py~
-*./auth.py
+auth.py
